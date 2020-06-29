@@ -3,7 +3,7 @@
 #
 # Builds the bot, intents, and custom slot types
 #
-
+# checking commit
 #
 # Environment variables to be set in the CodeBuild project
 #
